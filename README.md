@@ -2,13 +2,14 @@
 <img width="100%" height = "" src="https://i.imgur.com/8zmXNqh.png" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hello Fellow < Developers/ >! <img src = "https://i.stack.imgur.com/022Fl.gif" width = 50px> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=makisuo.makisuo)
 
 </p>
-<div size='20px'> Hi! My name is Makisuo. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is Makisuo. I'm a Software Engeneering Student and Fulltime Fullstack Developer. 
+  Thanks for checking out my profile
 </div>
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>

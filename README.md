@@ -55,6 +55,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=makisuo&count_private=true&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/makisuo">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makisuo&theme=radical" />
+</a>
+<a href="https://github.com/makisuo">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=makisuo&theme=radical" />
 </a>

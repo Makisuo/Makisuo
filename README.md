@@ -9,6 +9,7 @@
 
 </p>
 <div size='20px'> Hi! My name is Makisuo. I'm a Software Engeneering Student and Fulltime Fullstack Developer. 
+  </br>
   Thanks for checking out my profile
 </div>
 

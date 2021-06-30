@@ -20,7 +20,7 @@
 
 - 🔭 I’m currently working on Kahri, a League of Legends virtual coach
 
-- 🌱 I’m currently learning WebRTC, Elixier 
+- 🌱 I’m currently learning WebRTC, Elixir 
 
 - 💬 Talk to me about Python, Typescript, Open Source, CSS 
 

@@ -35,9 +35,7 @@
 
 <h2> My GitHub Stats <img src='https://github.githubassets.com/images/modules/logos_page/Octocat.png' width='32px'> </h2>
 
-<a href="https://github.com/makisuo">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=makisuo&theme=radical" />
-</a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Makisuo&theme=github-dark)](https://git.io/streak-stats)
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=makisuo&count_private=true&show_icons=true&theme=radical" />
 </a>

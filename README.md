@@ -12,13 +12,6 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on Hazel, a third-party sync engine.
-
-- 🌱 I’m currently learning Elixir 
-
-- 💬 Talk to me about anything
-
-
 
 <h2> Connect with me </h2>
 <a href = 'https://www.linkedin.com/in/makisuo'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
